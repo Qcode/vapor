@@ -311,47 +311,47 @@
             "image": "http://i.imgur.com/09ywa6h.png"
         },
         {
-	          "id": "metanet-hunter",
-	          "name": "Metanet Hunter",
-	          "sources": {
-		          "1376002497": "http://cdn.bitbucket.org/NightKawata/metanet-hunter/downloads/Metanet%20Hunter.love"
-	          },
-	          "hashes": {
-		          "1376002497": "c35004fa041d706bbaef1770d8c833592bb82f03"
-	          },
-	          "stable": "1376002497",
-	          "author": "NightKawata",
-	          "engine": "love-0.8.0",
-	          "image": "http://i.imgur.com/M4Wkce6.png"
+              "id": "metanet-hunter",
+              "name": "Metanet Hunter",
+              "sources": {
+                  "1376002497": "http://cdn.bitbucket.org/NightKawata/metanet-hunter/downloads/Metanet%20Hunter.love"
+              },
+              "hashes": {
+                  "1376002497": "c35004fa041d706bbaef1770d8c833592bb82f03"
+              },
+              "stable": "1376002497",
+              "author": "NightKawata",
+              "engine": "love-0.8.0",
+              "image": "http://i.imgur.com/M4Wkce6.png"
         },
         {
-	          "id": "roguefleet",
-	          "name": "Rogue Fleet",
-	          "sources": {
-		          "1376024769": "http://www.martianarctic.com/games/roguefleet/roguefleet.php"
-	          },
-	          "hashes": {
-		          "1376024769": "9d9f780ee5e06ebf3542c617a70949e7a9bb38bb"
-	          },
-	          "stable": "1376024769",
-	          "author": "Martian Arctic Games",
-	          "engine": "love-0.8.0",
-	          "image": "http://i.imgur.com/48nCUhZ.png"
+              "id": "roguefleet",
+              "name": "Rogue Fleet",
+              "sources": {
+                  "1376024769": "http://www.martianarctic.com/games/roguefleet/roguefleet.php"
+              },
+              "hashes": {
+                  "1376024769": "9d9f780ee5e06ebf3542c617a70949e7a9bb38bb"
+              },
+              "stable": "1376024769",
+              "author": "Martian Arctic Games",
+              "engine": "love-0.8.0",
+              "image": "http://i.imgur.com/48nCUhZ.png"
         },
         {
-	          "id": "trAInsported",
-	          "name": "trAInsported",
-	          "sources": {
-		          "1376243783": "http://trainsportedgame.no-ip.org/downloadCount.php?Down=download/trAInsported4.love"
-	          },
-	          "hashes": {
-		          "1376243783": "d3329140303dac12f40b08a7063479a553eb39f2"
-	          },
-	          "stable": "1376243783",
-	          "author": "Germanunkol",
-	          "description": "Write an artificial intelligence which controls your trains. Make sure your trains transport more passengers than anyone elses trains in live, online battles.",
-	          "engine": "love-0.8.0",
-	          "image": "http://trainsportedgame.no-ip.org/download/Vaporimage.png"
+              "id": "trAInsported",
+              "name": "trAInsported",
+              "sources": {
+                  "1376243783": "http://trainsportedgame.no-ip.org/downloadCount.php?Down=download/trAInsported4.love"
+              },
+              "hashes": {
+                  "1376243783": "d3329140303dac12f40b08a7063479a553eb39f2"
+              },
+              "stable": "1376243783",
+              "author": "Germanunkol",
+              "description": "Write an artificial intelligence which controls your trains. Make sure your trains transport more passengers than anyone elses trains in live, online battles.",
+              "engine": "love-0.8.0",
+              "image": "http://trainsportedgame.no-ip.org/download/Vaporimage.png"
         },
         {
             "id": "Idiot_Puzzles",
@@ -364,9 +364,9 @@
             },
             "stable": "1376320758",
             "author": "Power9.0",
-            "description": "Our hero Idiot is captured and trapped in a dungeon, forced to create art against his will. He must escape from the dungeon at all costs to escape this fate.",
+            "description": "Our hero Idiot is trapped in a dungeon, forced to create art against his will. He must escape from the dungeon at all costs to escape this fate. Use space to pick up crates and flip levers.",
             "engine": "love-0.8.0",
-            "image:": "http://i.imgur.com/WArEAph.png"
+            "image:": "http://i.imgur.com/oxfQTgy.png"
         }
     ]
 }
